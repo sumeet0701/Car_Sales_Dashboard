@@ -33,9 +33,10 @@ The objective of this project is to design and develop a dynamic and interactive
 6.	**Details Grid Showing All Car Sales Information**: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
 # DashBoard:
-**Dashboard : 1**
+**Dashboard: 1**
 <img width="712" alt="image" src="https://github.com/sumeet0701/Car_Sales_Dashboard/assets/63961794/8d26a3a7-7a14-4788-9d2c-0a5f8df41bfd">
-**Dashboard : 2** 
+
+**Dashboard: 2** 
 <img width="712" alt="image" src="https://github.com/sumeet0701/Car_Sales_Dashboard/assets/63961794/7f46d199-8368-47a3-8369-ea33b6037871">
 
 
